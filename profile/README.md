@@ -19,6 +19,6 @@ information resource (like a dataset), the DID may directly reference the resour
 ### Content
 
 1) Introduction
-   1) [DID example](../fragments/example)
+   1) [DID example](../fragments/example.md)
    2) [Architecture overview](../fragments/architecture.md)
 
